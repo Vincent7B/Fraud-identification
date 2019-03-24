@@ -1,0 +1,12 @@
+https://www.theguardian.com/business/2002/jan/13/corporatefraud.enron
+https://en.wikipedia.org/wiki/Enron_scandal
+https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html#sklearn.naive_bayes.GaussianNB
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_digits.html#sphx-glr-auto-examples-model-selection-plot-grid-search-digits-py
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedShuffleSplit.html
+https://stats.stackexchange.com/questions/235808/binary-classification-with-strongly-unbalanced-classes
+http://www.svds.com/learning-imbalanced-classes/
+http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf
